@@ -1,19 +1,13 @@
-# md-slides template
+# Today I Learned: Javascript Promises
 
-[![GitHub Actions][gh_actions_badge]][gh_actions] [![GitHub Pages][gh_pages_badge]][gh_pages] [![GitHub Releases][gh_releases_badge]][gh_releases]
+![Github Actions Badge][gh_actions_badge]
+![Github Issues Badge][gh_issues_badge]
+![Github Pages Badge][gh_pages_badge]
+![Github Releases Badge][gh_releases_badge]
 
-This template can be forked or simply copied inside your github repository to render `PITCHME.md` files into [marp](https://marp.app) presentations. On every commit the workflow will update your github page and create a new github release of your presentation automatically.
+SLIDES COMING SOON...
 
-### [No configuration needed!](/.github/workflows/md-slides.yml)
-
-## PITCHME.md
-We use the `PITCHME.md` convention introduced by [GitPitch](https://gitpitch.com/docs/getting-started/pitchme/). The `PITCHME.md` file inside your repository will be used to render the presentation.
-
-[gh_actions]: https://github.com/ivoputzer/md-slides-template/actions
-[gh_actions_badge]: https://img.shields.io/github/workflow/status/ivoputzer/md-slides-template/markdown%20slides/master?style=for-the-badge&logo=github
-
-[gh_pages]: https://github.com/ivoputzer/md-slides-template/deployments
+[gh_actions_badge]: https://img.shields.io/github/workflow/status/ivoputzer/til-js-promises/markdown%20slides/master?style=for-the-badge&logo=github
+[gh_issues_badge]: https://img.shields.io/github/issues/ivoputzer/til-js-promises?style=for-the-badge&logo=github
 [gh_pages_badge]: https://img.shields.io/static/v1?style=for-the-badge&label=page&message=online&color=success&logo=github
-
-[gh_releases]: https://github.com/ivoputzer/md-slides-template/releases
-[gh_releases_badge]: https://img.shields.io/github/v/release/ivoputzer/md-slides-template?style=for-the-badge&logo=github
+[gh_releases_badge]: https://img.shields.io/github/v/release/ivoputzer/til-js-promises?style=for-the-badge&logo=github
